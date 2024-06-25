@@ -1,0 +1,26 @@
+.fw-img {
+    width:100%;
+    height: 300px;
+    background-image: url("../images/sushi-dulce-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.mask {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+/*.fw::before{
+    position: absolute;
+    content: ´´;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+}*/
+.boton-2{
+    background-color: aqua;
+
+}
+
+
